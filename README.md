@@ -1,12 +1,12 @@
 # PrivAte
 1. *Pregunta:* En un diagrama de casos de uso, la primera actividad que se debe realizar es colocar el límite del sistema mediante un cuadrado y su nombre, luego identificar los actores y ponerlos fuera del sistema, posteriormente colocar los casos de uso de las principales acciones que hará el usuario y su relación.
-   - *Respuesta:* Verdadero
+   - *Respuesta: Verdadero*
 
 2. *Pregunta:* En un diagrama de actividad, los rombos se utilizan para representar decisiones o puntos de bifurcación en el flujo del proceso.
-   - *Respuesta:* Verdadero
+   - *Respuesta: Verdadero*
 
 3. *Pregunta:* ¿Cuál es el propósito principal de un diagrama de actividad?
-   - *Respuesta:* Describir procesos y flujos de trabajo
+   - *Respuesta: Describir procesos y flujos de trabajo*
 
 4. *Pregunta:* ¿Cuál de los siguientes no hace parte de un diagrama de actividad?
    - *Respuesta:* Un círculo con una X dentro (esto representa el final de un flujo, correcto para un diagrama de actividad)
